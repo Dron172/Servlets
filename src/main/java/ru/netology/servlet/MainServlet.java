@@ -5,6 +5,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import ru.netology.controller.PostController;
 import ru.netology.service.PostService;
 import ru.netology.repository.PostRepository;
+import ru.netology.config.JavaConfig;
 
 
 import javax.servlet.http.HttpServlet;
